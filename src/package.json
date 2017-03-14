@@ -1,7 +1,7 @@
 {
-  "name": "skill-sample-js-trivia",
+  "name": "mark-seven-gti-trivia",
   "version": "1.0.0",
-  "description": "A simple trivia skill i18n version.",
+  "description": "Simple mark seven GTI trivia game.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,9 +11,9 @@
     "skill",
     "trivia"
   ],
-  "author": "Amazon.com",
+  "author": "Reliant Games",
   "license": "Apache-2.0",
   "dependencies": {
-    "alexa-sdk": "^1.0.6"
+    "alexa-sdk": "^1.0.7"
   }
 }
